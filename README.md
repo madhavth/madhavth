@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Madhav 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=madhavth)](https://git.io/streak-stats)
 
 
 <!--
