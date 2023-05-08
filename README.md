@@ -1,6 +1,6 @@
 ### Hi there, I am Madhav 👋
 
-### Mobile Developer / Android Developer / Flutter Developer
+### A Mobile Developer / Android Developer / Flutter Developer
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=madhavth)](https://git.io/streak-stats)
