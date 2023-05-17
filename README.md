@@ -16,6 +16,13 @@ const madhav = {
 
 [![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavth)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/madhav-thapa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-thapa/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/madhavth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhavth" height="30" width="40" /></a>
+</p>
 <!--
 **madhavth/madhavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
